@@ -27,7 +27,7 @@ I started my journey into the world of cybersecurity with a strong curiosity to 
 - 🔐 Penetration Testing
 ## Certificates And Achievements
 - [Introduction to Cyber Security Learning path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RSKVRA2F11.png)
-
+- [Ethical Hacking Essentials](https://codered.eccouncil.org/certificate/7961d15f-e4ff-4b21-9a38-cea74884833b?finalAssessment=true&type=1&logged=true)
 
 ## Tryhackme Badge🎖️
 ![App Screenshot](https://tryhackme-badges.s3.amazonaws.com/techwithashu.png)
